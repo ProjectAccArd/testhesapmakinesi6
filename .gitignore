@@ -1,0 +1,10 @@
+bin/
+obj/
+*.user
+*.suo
+*.dbmdl
+*.log
+.vs/
+
+
+Bu proje temel matematiksel işlemler (toplama, çıkarma, çarpma, bölme) yapabilen basit bir Windows Forms hesap makinesi uygulamasıdır. Arayüzdeki düğmeler üzerinden işlemler gerçekleştirilir ve sonuç metin kutusunda görüntülenir. Lütfen bu kodu bir C# geliştirme ortamında çalıştırın.
