@@ -8,6 +8,7 @@ namespace testhesapmakinesi6
         [STAThread]
         static void Main()
         {
+			//test commit
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new CalculatorForm());
